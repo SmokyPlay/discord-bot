@@ -10,4 +10,4 @@ bot.on('message', message => {
     if(message.content == '!ку') message.channel.send('Привет!');
 })
 
-bot.login('токен вашего бота');
+bot.login('токен-вашего-бота');
